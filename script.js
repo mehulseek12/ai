@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleDarkMode = document.getElementById('dark-mode-toggle');
     
     // Use your server's IP:PORT
-    const SERVER_URL = 'https://stretch-pearl-camcorders-gloves.trycloudflare.com';
+    const SERVER_URL = 'https://comments-washington-pork-gene.trycloudflare.com';
 
     micButton.addEventListener('click', () => {
         startRecognition();
